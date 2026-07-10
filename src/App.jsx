@@ -28,7 +28,7 @@ function App() {
         <h3 className="text-xl text-pink-500 font-semibold leading-relaxed">
           Isssnehuuu Pisssnehuuu💖 <br />
           Happy 22 Snehahahahahahaha! <br />
-          Keep laughing—your laugh is contagious!!
+          Keep laughing hehe your laugh is contagious!!
         </h3>
 
         <div className="text-7xl my-6 animate-wiggle">🎂</div>
